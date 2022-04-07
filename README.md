@@ -1,2 +1,3 @@
 # kodluyoruzilkrepo
-ilk repom
+## ilk repom
+* ilk göz ağrım
